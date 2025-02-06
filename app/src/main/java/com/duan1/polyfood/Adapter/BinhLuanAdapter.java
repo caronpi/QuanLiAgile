@@ -23,6 +23,7 @@ import java.util.Comparator;
 import java.util.List;
 
 // Sprint2
+// Sprint3
 
 public class BinhLuanAdapter extends RecyclerView.Adapter<BinhLuanAdapter.BinhLuanViewHolder> {
     private Context context;
