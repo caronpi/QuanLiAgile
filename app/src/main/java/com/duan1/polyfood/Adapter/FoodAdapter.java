@@ -23,7 +23,7 @@ import com.duan1.polyfood.R;
 import java.util.List;
 import com.bumptech.glide.Glide;
 
-
+// Sprint3
 public class FoodAdapter extends RecyclerView.Adapter<FoodAdapter.FoodViewHolder> {
 
     private Context context;
