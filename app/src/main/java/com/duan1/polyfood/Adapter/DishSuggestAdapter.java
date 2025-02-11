@@ -19,7 +19,7 @@ import com.duan1.polyfood.Other.IntToVND;
 import com.duan1.polyfood.R;
 
 import java.util.List;
-
+//Sprint4
 public class DishSuggestAdapter extends RecyclerView.Adapter<DishSuggestAdapter.ViewHolder> {
 
     private List<ThucDon> danhSachThucDon;
