@@ -24,6 +24,7 @@ import java.util.List;
 import com.bumptech.glide.Glide;
 
 // Sprint3
+// Sprint4
 public class FoodAdapter extends RecyclerView.Adapter<FoodAdapter.FoodViewHolder> {
 
     private Context context;

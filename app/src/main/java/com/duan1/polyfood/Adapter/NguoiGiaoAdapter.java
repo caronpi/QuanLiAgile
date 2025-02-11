@@ -24,7 +24,7 @@ import com.duan1.polyfood.Models.ThongBao;
 import com.duan1.polyfood.R;
 
 import java.util.ArrayList;
-
+//Sprint4
 public class NguoiGiaoAdapter extends RecyclerView.Adapter<NguoiGiaoAdapter.ViewHolder>{
 
     private Context context;
