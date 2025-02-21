@@ -27,6 +27,7 @@ import java.util.List;
 
 /** @noinspection deprecation*/
 public class RestaurantActivity extends AppCompatActivity {
+    //Sprint6
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

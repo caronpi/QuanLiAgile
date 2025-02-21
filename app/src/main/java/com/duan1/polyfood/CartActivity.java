@@ -29,7 +29,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CartActivity extends AppCompatActivity {
-
+    //Sprint6
     private static final org.apache.commons.logging.Log log = LogFactory.getLog(CartActivity.class);
     private List<ThucDon> listCart = new ArrayList<>();
     private SharedPreferences sharedPreferences;
