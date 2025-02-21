@@ -24,7 +24,7 @@ import java.util.List;
 
 // Sprint2
 // Sprint3
-
+//Sprint4
 public class BinhLuanAdapter extends RecyclerView.Adapter<BinhLuanAdapter.BinhLuanViewHolder> {
     private Context context;
     private List<BinhLuan> binhLuanList;

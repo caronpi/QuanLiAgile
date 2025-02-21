@@ -10,7 +10,7 @@ import com.duan1.polyfood.Fragment.ChoXuLyFragment;
 import com.duan1.polyfood.Fragment.DangGiaoFragment;
 import com.duan1.polyfood.Fragment.HoanThanhFragment;
 import com.duan1.polyfood.Fragment.TatCaFragment;
-
+//Sprint4
 public class HoaDonPageAdapter extends FragmentStateAdapter {
     public HoaDonPageAdapter(@NonNull FragmentActivity fragmentActivity) {
         super(fragmentActivity);
