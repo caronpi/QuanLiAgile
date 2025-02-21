@@ -18,6 +18,7 @@ import com.duan1.polyfood.Models.ThongBao;
 import java.util.ArrayList;
 
 public class ThongBaoActivity extends AppCompatActivity {
+    //Sprint6
 
     private RecyclerView rcvThongBao;
 

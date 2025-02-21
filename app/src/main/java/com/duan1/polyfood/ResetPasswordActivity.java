@@ -15,6 +15,7 @@ import com.google.firebase.auth.FirebaseAuth;
 
 public class ResetPasswordActivity extends AppCompatActivity {
     private EditText edtEmailReset;
+    //Sprint6
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

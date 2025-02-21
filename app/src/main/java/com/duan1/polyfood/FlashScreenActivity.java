@@ -13,6 +13,7 @@ import com.duan1.polyfood.Database.NguoiDungDAO;
 import com.duan1.polyfood.Models.NguoiDung;
 
 public class FlashScreenActivity extends AppCompatActivity {
+    //Sprint6
 
     private AuthenticationFireBaseHelper fireBaseHelper;
     private NguoiDungDAO nguoiDungDAO;
