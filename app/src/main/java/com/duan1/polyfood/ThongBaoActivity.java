@@ -19,6 +19,7 @@ import java.util.ArrayList;
 
 public class ThongBaoActivity extends AppCompatActivity {
     //Sprint6
+    // Sprint 3
 
     private RecyclerView rcvThongBao;
 

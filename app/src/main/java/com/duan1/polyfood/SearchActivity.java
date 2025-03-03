@@ -31,6 +31,7 @@ import java.util.stream.Collectors;
 
 public class SearchActivity extends AppCompatActivity {
     //Sprint6
+    // Sprint 3
 
     private RecyclerView recyclerViewSearch;
     private List<ThucDon> listThucDon;

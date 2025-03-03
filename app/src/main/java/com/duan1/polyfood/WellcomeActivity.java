@@ -26,6 +26,7 @@ import com.google.firebase.auth.GoogleAuthProvider;
 
 public class WellcomeActivity extends AppCompatActivity {
     //Sprint6
+    // Sprint 3
 
     private FirebaseAuth mAuth;
     /** @noinspection deprecation*/

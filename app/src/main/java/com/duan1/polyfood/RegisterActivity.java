@@ -25,6 +25,7 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
 public class RegisterActivity extends AppCompatActivity {
+    // Sprint 3
 
     private boolean isPasswordVisible = false;
     private EditText edtUserNameRegis, edtEmailRegis, edtPasswordRegis, edtConfirmRegis;
