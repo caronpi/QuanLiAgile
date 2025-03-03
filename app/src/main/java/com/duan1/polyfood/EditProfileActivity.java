@@ -33,6 +33,7 @@ import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
 
 public class EditProfileActivity extends AppCompatActivity {
+    // Sprint 3
 
     private EditText name, address, gender, age, email, phone;
     private NguoiDungDAO nguoiDungDAO;

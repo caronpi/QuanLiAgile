@@ -25,6 +25,7 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
 public class LoginActivity extends AppCompatActivity {
+    // Sprint 3
 
     private EditText edtPassword, edtEmail;
     private ImageView ivEye;

@@ -21,6 +21,7 @@ import com.duan1.polyfood.Database.NguoiDungDAO;
 import com.duan1.polyfood.Models.NguoiDung;
 
 public class InputInfoActivity extends AppCompatActivity {
+    // Sprint 3
 
     private EditText edtName, edtAge, edtAddress, edtPhone;
     private String TAG = "zzzzzzzzzzzz";

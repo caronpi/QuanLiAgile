@@ -46,6 +46,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PayActivity extends AppCompatActivity {
+    // Sprint 3
 
     private int soLuong;
     private TextView txtTenMonAn, txtGia, txtSoluong, txtTongTien;

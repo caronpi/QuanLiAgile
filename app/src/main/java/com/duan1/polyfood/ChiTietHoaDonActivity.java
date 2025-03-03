@@ -31,6 +31,7 @@ import java.util.ArrayList;
 
 public class ChiTietHoaDonActivity extends AppCompatActivity {
     //Sprint6
+    // Sprint 3
 
     private TextView txtTenMonAn, txtGia, txtSoLuong, txtTongTien, txtPhuongThucThanhToan, txtTrangThai, txtSdt, txtDiaChi;
     private ImageView imgMonAn;
