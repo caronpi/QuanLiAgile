@@ -37,6 +37,7 @@ import java.util.List;
 
 
 public class DishSuggestFragment extends Fragment {
+    //Sprint 2
 
     private ImageView imgSelectedImage;
     private ThucDonDAO thucDonDAO;

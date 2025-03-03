@@ -30,6 +30,7 @@ import java.util.List;
 
 public class TagFragment extends Fragment {
 
+    //Sprint 2
 
     private RecyclerView recyclerView;
     private StickerAdapter adapter;

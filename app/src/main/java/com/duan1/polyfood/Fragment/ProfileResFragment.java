@@ -21,6 +21,7 @@ import java.util.ArrayList;
 
 public class ProfileResFragment extends Fragment {
 
+    //Sprint 2
 
     private TextView txtRestaurantName,txtIntroduction,txtAddress,txtEmail,txtPhone;
 
