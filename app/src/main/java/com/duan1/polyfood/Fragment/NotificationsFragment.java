@@ -12,6 +12,7 @@ import com.duan1.polyfood.R;
 
 
 public class NotificationsFragment extends Fragment {
+    //Sprint 2
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,

@@ -17,7 +17,7 @@ import com.google.android.material.tabs.TabLayoutMediator;
 
 
 public class BillFragment extends Fragment {
-
+    //Sprint 2
     private LottieAnimationView loading;
     private View viewLoad;
 

@@ -31,6 +31,7 @@ import java.util.Locale;
 
 
 public class StatisticFragment extends Fragment {
+    //Sprint 2
 
     private TextView tvDoanhThu, tvStartDate, tvEndDate;
     private String startDate, endDate;

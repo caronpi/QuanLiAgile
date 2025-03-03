@@ -20,6 +20,7 @@ import java.util.ArrayList;
 
 
 public class OrderFragment extends Fragment {
+    //Sprint 2
 
     private RecyclerView recyclerView;
     private NhaHangHDAdapter nhaHangHDAdapter;

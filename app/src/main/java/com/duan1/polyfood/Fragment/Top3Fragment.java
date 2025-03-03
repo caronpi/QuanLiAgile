@@ -37,6 +37,7 @@ public class Top3Fragment extends Fragment {
     private LottieAnimationView loading;
     private View viewLoad;
 
+    //Sprint 2
 
 
     public void loading(){

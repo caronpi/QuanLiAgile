@@ -26,6 +26,8 @@ import com.bumptech.glide.Glide;
 
 
 public class ProfileFragment extends Fragment {
+    //Sprint 2
+
     private TextView name, address, gender, age, email, phone;
     private NguoiDungDAO nguoiDungDAO;
     private ImageView imageViewProfile;

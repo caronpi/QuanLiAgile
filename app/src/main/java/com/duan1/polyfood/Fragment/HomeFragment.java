@@ -37,6 +37,7 @@ import java.util.Calendar;
 import java.util.List;
 
 public class HomeFragment extends Fragment {
+    //Sprint 2
 
     private String TAG = "FixLoi1";
     private RecyclerView recyclerViewNgang;
